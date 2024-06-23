@@ -17,6 +17,7 @@ export default function Navbar() {
             <Link href={'./workspace'}><li className="md:px-4 md:py-2 text-indigo-500"><h2>Work Space</h2></li></Link>
             <Link href={'./add-work'}><li className="md:px-4 md:py-2 hover:text-indigo-400">Add Work</li></Link>
             <Link href={'./about'}><li className="md:px-4 md:py-2 hover:text-indigo-400">About</li></Link>
+            <Link href={'./contact'}><li className="md:px-4 md:py-2 hover:text-indigo-400">Contact Us</li></Link>
           </ul>
         </div>
   
